@@ -2,6 +2,6 @@
 
 members = [
     "commons",
-    "client",
-    "server",
+    "host",
+    "guest",
 ]
